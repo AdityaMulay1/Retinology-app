@@ -1,0 +1,17 @@
+
+APK Information:
+================
+App Name: DR_Detection_AI
+Package: org.medical.drdetection
+Version: 1.0
+Main File: mobile_app_lite.py
+
+This is a demo APK structure. For a full APK build, you need:
+1. Android SDK
+2. Android NDK  
+3. Java JDK
+4. Buildozer or Python-for-Android
+
+Current Status: Demo APK structure created
+Real APK: Requires Android development environment
+    
